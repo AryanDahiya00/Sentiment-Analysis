@@ -1,4 +1,4 @@
-# Emotion Classification Project Report
+# Sentiment-Analysis using BERT
 
 ## Project Overview
 Deep learning project for classifying emotions in text using BERT-based sequence classification.
